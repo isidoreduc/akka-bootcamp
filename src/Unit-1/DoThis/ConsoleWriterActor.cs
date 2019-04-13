@@ -1,5 +1,6 @@
 ﻿using System;
 using Akka.Actor;
+using static Akka.IO.Udp;
 
 namespace WinTail
 {
@@ -11,6 +12,7 @@ namespace WinTail
     {
         protected override void OnReceive(object message)
         {
+
             var msg = message as string;
 
             // make sure we got a message

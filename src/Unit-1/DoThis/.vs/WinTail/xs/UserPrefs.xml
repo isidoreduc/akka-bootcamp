@@ -1,22 +1,11 @@
 ﻿<Properties StartupConfiguration="{E8D9CD24-DBF5-4524-AC3D-B7B2995FBA1F}|Default">
   <MonoDevelop.Ide.ItemProperties.WinTail PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleReaderActor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleWriterActor.cs">
     <Files>
       <File FileName="ConsoleReaderActor.cs" Line="22" Column="43" />
       <File FileName="Program.cs" Line="29" Column="46" />
-      <File FileName="ConsoleWriterActor.cs" Line="1" Column="1" />
+      <File FileName="ConsoleWriterActor.cs" Line="15" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="WinTail" expanded="True">
-            <Node name="WinTail" expanded="True" selected="True">
-              <Node name="Properties" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E8D9CD24-DBF5-4524-AC3D-B7B2995FBA1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.WinTail PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleReaderActor.cs">
+    <Files>
+      <File FileName="ConsoleReaderActor.cs" Line="64" Column="14" />
+      <File FileName="Messages.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WinTail" expanded="True">
+            <Node name="WinTail" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="ConsoleReaderActor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

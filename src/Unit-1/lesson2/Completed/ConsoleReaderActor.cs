@@ -62,8 +62,7 @@ namespace WinTail
             }
             else
             {
-                var valid = IsValid(message);
-                if (valid)
+                if (IsValid(message))
                 {
                     _consoleWriterActor.Tell(new Messages.InputSuccess("Thank you! Message was valid."));
 
@@ -83,11 +82,7 @@ namespace WinTail
         /// </summary>
         /// <param name="message"></param>
         /// <returns></returns>
-        private static bool IsValid(string message)
-        {
-            var valid = message.Length % 2 == 0;
-            return valid;
-        }
+        private static bool IsValid(string message) => message.Length % 2 == 0;
 
         #endregion
     }
